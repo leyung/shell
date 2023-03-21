@@ -49,3 +49,12 @@ timedatectl set-timezone Asia/Shanghai
 
 # 安装网络监控
 apt install sysstat vnstat -y
+
+# 安装常用软件
+apt install curl vim -y
+
+#修改qb配置
+systemctl status qbittorrent-nox@admin
+wget https://raw.githubusercontent.com/leyung/shell/main/buyvm/qBittorrent.conf -O /home/admin/.config/qBittorrent/qBittorrent.conf
+chown admin /home/admin/.config/qBittorrent
+systemctl start qbittorrent-nox@admin
