@@ -11,7 +11,7 @@ case "$yn" in
 iface eth0 inet6 static
         address $1
         netmask 48
-        gateway 2605:6400:30::1
+        gateway 2605:6400:20::1
 EOF
   echo -e "设置ipv6地址为：$1"
   ;;
