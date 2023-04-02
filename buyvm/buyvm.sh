@@ -4,9 +4,9 @@ Font="\033[0m"
 Red="\033[31m"
 
 # 设置ipv6
-read -p "Do you wish to setting ipv6? (Y/N):" yn
-case "$yn" in
-"Yy")
+read -p "Do you wish to setting ipv6? (Y/N):" answer
+case "${answer}" in
+[Yy]*)
   cat >>/etc/network/interfaces <<EOF
 iface eth0 inet6 static
         address $1
@@ -15,15 +15,18 @@ iface eth0 inet6 static
 EOF
   echo -e "设置ipv6地址为：$1"
   ;;
-"Nn")
+[Nn]*)
   echo "Cancel setting ipv6"
+  ;;
+*)
+  echo "Invalid input. Please enter Y/y or N/n."
   ;;
 esac
 
 # 添加swap
-read -p "Do you wish to add swap? (Y/N):" yn
-case "$yn" in
-"Yy")
+read -p "Do you wish to add swap? (Y/N):" answer
+case "${answer}" in
+[Yy]*)
   re='^[0-9]+$'
   if ! [[ $2 =~ $re ]]; then
     echo "Swap Size has to be an integer"
@@ -49,15 +52,18 @@ case "$yn" in
   # 修改swappiness
   sysctl -w vm.swappiness=60
   ;;
-"Nn")
+[Nn]*)
   echo "Cancel add swap"
+  ;;
+*)
+  echo "Invalid input. Please enter Y/y or N/n."
   ;;
 esac
 
 # 挂载存储块
-read -p "Do you wish to setting disk? (Y/N):" yn
-case "$yn" in
-"Yy")
+read -p "Do you wish to setting disk? (Y/N):" answer
+case "${answer}" in
+[Yy]*)
   disk_id=$(ls /dev/disk/by-id/ | grep scsi)
   echo -e "发现存储块：$disk_id"
   # 格式化存储块
@@ -68,8 +74,11 @@ case "$yn" in
   # 设置开机自动挂载
   echo "/dev/disk/by-id/$disk_id /pt ext4 defaults 0 0" >>/etc/fstab
   ;;
-"Nn")
+[Nn]*)
   echo "Cancel setting disk"
+  ;;
+*)
+  echo "Invalid input. Please enter Y/y or N/n."
   ;;
 esac
 
