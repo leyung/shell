@@ -69,8 +69,9 @@ case "${answer}" in
   # 格式化存储块
   mkfs.ext4 -F /dev/disk/by-id/"$disk_id"
   # 创建并挂载目录
-  mkdir -p /pt && chmod -R 777 /pt/
+  mkdir -p /pt
   mount -o discard,defaults /dev/disk/by-id/"$disk_id" /pt
+  chmod -R 777 /pt/
   # 设置开机自动挂载
   echo "/dev/disk/by-id/$disk_id /pt ext4 defaults 0 0" >>/etc/fstab
   ;;
