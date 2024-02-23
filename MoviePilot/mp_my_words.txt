@@ -1,0 +1,331 @@
+Jujutsu.Kaisen.S02E => Jujutsu.Kaisen.S01E && Jujutsu.Kaisen.S01E <> 2023 >> EP+24
+One.?Piece.?S01E(?=006[2-9]|007[0-7]) => One Piece S02E
+One.?Piece.?S01E(?=007[8-9]|008[0-9]|009[0-1]) => One Piece S03E
+One.?Piece.?S01E(?=009[2-9]|01[0-2][0-9]|0130) => One Piece S04E
+One.?Piece.?S01E(?=013[1-9]|014[0-3]) => One Piece S05E
+One.?Piece.?S01E(?=014[4-9]|01[5-8][0-9]|019[0-5]) => One Piece S06E
+One.?Piece.?S01E(?=019[6-9]|02[0-1][0-9]|022[0-8]) => One Piece S07E
+One.?Piece.?S01E(?=0229|02[3-5][0-9]|026[0-3]) => One Piece S08E
+One.?Piece.?S01E(?=026[4-9]|02[7-9][0-9]|03[0-2][0-9]|033[0-6]) => One Piece S09E
+One.?Piece.?S01E(?=033[7-9]|03[4-7][0-9]|038[0-1]) => One Piece S10E
+One.?Piece.?S01E(?=038[2-9]|039[0-9]|040[0-7]) => One Piece S11E
+One.?Piece.?S01E(?=040[8-9]|041[0-9]|042[0-1]) => One Piece S12E
+One.?Piece.?S01E(?=042[2-9]|04[3-9][0-9]|05[0-1][0-9]|052[0-2]) => One Piece S13E
+One.?Piece.?S01E(?=052[3-9]|05[3-7][0-9]|0580) => One Piece S14E
+One.?Piece.?S01E(?=058[1-9]|059[0-9]|06[0-3][0-9]|064[0-2]) => One Piece S15E
+One.?Piece.?S01E(?=064[3-9]|06[5-8][0-9]|069[0-2]) => One Piece S16E
+One.?Piece.?S01E(?=069[3-9]|07[0-3][0-9]|074[0-8]) => One Piece S17E
+One.?Piece.?S01E(?=0749|07[5-9][0-9]|080[0-3]) => One Piece S18E
+One.?Piece.?S01E(?=080[4-9]|08[1-6][0-9]|087[0-7]) => One Piece S19E
+One.?Piece.?S01E(?=087[8-9]|088[0-9]|089[0-1]) => One Piece S20E
+One.?Piece.?S01E(?=089[2-9]|09[0-9][0-9]|10[0-7][0-9]|108[0-8]) => One Piece S21E
+One.?Piece.?S01E(?=1089|109[0-9]|1[1-9][0-9][0-9]) => One Piece S22E
+Naruto.E(?=0[0-4][0-9]|05[0-2]) => Naruto.S01E
+Naruto.E(?=05[3-9]|0[6-9][0-9]|10[0-4]) => Naruto.S02E
+Naruto.E(?=10[5-9]|1[1-4][0-9]|15[0-8]) => Naruto.S03E
+Naruto.E(?=159|1[6-9][0-9]|2[0-1][0-9]|220) => Naruto.S04E
+Naruto.Shippuden.E(?=0[0-2][0-9]|03[0-2]) => Naruto.Shippuden.S01E
+Naruto.Shippuden.E(?=03[3-9]|04[0-9]|05[0-3]) => Naruto.Shippuden.S02E
+Naruto.Shippuden.E(?=05[4-9]|06[0-9]|07[0-1]) => Naruto.Shippuden.S03E
+Naruto.Shippuden.E(?=07[2-9]|08[0-8]) => Naruto.Shippuden.S04E
+Naruto.Shippuden.E(?=089|09[0-9]|10[0-9]|11[0-2]) => Naruto.Shippuden.S05E
+Naruto.Shippuden.E(?=11[3-9]|1[2-3][0-9]|14[0-3]) => Naruto.Shippuden.S06E
+Naruto.Shippuden.E(?=14[4-9]|15[0-1]) => Naruto.Shippuden.S07E
+Naruto.Shippuden.E(?=15[2-9]|16[0-9]|17[0-5]) => Naruto.Shippuden.S08E
+Naruto.Shippuden.E(?=17[6-9]|18[0-9]|19[0-6]) => Naruto.Shippuden.S09E
+Naruto.Shippuden.E(?=19[7-9]|2[0-1][0-9]|22[0-1]) => Naruto.Shippuden.S10E
+Naruto.Shippuden.E(?=22[2-9]|23[0-9]|24[0-2]) => Naruto.Shippuden.S11E
+Naruto.Shippuden.E(?=24[3-9]|2[5-6][0-9]|27[0-5]) => Naruto.Shippuden.S12E
+Naruto.Shippuden.E(?=27[6-9]|28[0-9]|29[0-5]) => Naruto.Shippuden.S13E
+Naruto.Shippuden.E(?=29[6-9]|3[0-1][0-9]|320) => Naruto.Shippuden.S14E
+Naruto.Shippuden.E(?=32[1-9]|33[0-9]|34[0-8]) => Naruto.Shippuden.S15E
+Naruto.Shippuden.E(?=349|35[0-9]|36[0-1]) => Naruto.Shippuden.S16E
+Naruto.Shippuden.E(?=36[2-9]|37[0-2]) => Naruto.Shippuden.S17E
+Naruto.Shippuden.E(?=37[3-9]|38[0-9]|39[0-3]) => Naruto.Shippuden.S18E
+Naruto.Shippuden.E(?=39[4-9]|40[0-9]|41[0-3]) => Naruto.Shippuden.S19E
+Naruto.Shippuden.E(?=41[4-9]|4[2-9][0-9]|500) => Naruto.Shippuden.S20E
+Great.Journey.of.Teenagers.2021.S02.Sp01 => Great.Journey.of.Teenagers.2022.S00.E01
+西游记续集. => 西游记续集.S02.
+Demon.Slayer：Kimetsu.No.Yaiba => Kimetsu.No.Yaiba
+Mouse.E00 => Mouse.S0E01
+Mouse.SP01 => Mouse.S0E02
+Mouse.SP02 => Mouse.S0E03
+Mouse.SP03.Theatrical.Cut.2021.1080p => Mouse.S0E04
+Magic Phone 2 Silly Girl => Magic Mobile Phone
+神断狄仁杰.2011 => 神探狄仁杰.S04.2011
+Detective.D.E => Detective.Dee.S04.E
+Mushoku.Tensei.Isekai.Ittara.Honki.Dasu.OVA => Mushoku.Tensei.Isekai.Ittara.Honki.Dasu.S00E01
+The Proud Twins S01 2015 => 小鱼儿与花无缺 S01 2005
+Yu Zui.S01.2017 => Yu Zui.S02.2017
+Beastars.E(?=1[3-9]|2[0-4]) => Beastars.S02.E && Beastars.S02.E <> Netflix >> EP-12
+Attack.of.Titan => 进击的巨人
+Magic.Phone => 魔幻手机
+Anata.no.Ban.Desu.SP => Anata.no.Ban.Desu.S01E21
+XingHe.古灵精探B.D.I.E. Again => 古灵精探B
+Blue.Exorcist：Kyoto.Saga => 青之驱魔师
+Bu.Liang.Ren => 画江湖之不良人 {[tmdbid=83463;type=tv]}
+Ying.Xiong.2001 => 燕双鹰系列 {[tmdbid=110714;type=tv;s=01]}
+The.Falcon.1949 => 燕双鹰系列 {[tmdbid=110714;type=tv;s=02]}
+\[飞虎神鹰\].Flying.Tiger.Condor => 燕双鹰系列 {[tmdbid=110714;type=tv;s=03]}
+TJTV.Island.Falcon => 燕双鹰系列 {[tmdbid=110714;type=tv;s=04]}
+Da.Mo.Qiang.Shen => 燕双鹰系列 {[tmdbid=110714;type=tv;s=05]}
+津门飞鹰.Jin.Men.Fei.Ying => 燕双鹰系列 {[tmdbid=110714;type=tv;s=06]}
+斗破苍穹.Fights.Break.Sphere => 斗破苍穹年番 {[tmdbid=79481;type=tv]}
+Death.Note.S01 => 死亡笔记.S01 {[tmdbid=13916;type=tv]}
+Mob.Psycho.100 => 灵能百分百 {[tmdbid=67075;type=tv]}
+Journey.to.the.West.II => 西游记 {[tmdbid=13922;type=tv;s=02]}
+Shingeki.no.Kyojin.The.Final.Season.Kanketsu-hen.Zenpen.S01E01 => 进击的巨人.S00E36 {[tmdbid=1429;type=tv;s=00;e=36]}
+Shingeki.no.Kyojin.The.Final.Season.Kanketsu-hen.Kouhen.S01E01 => 进击的巨人.S00E37 {[tmdbid=1429;type=tv;s=00;e=37]}
+The.Young.Imperial.Guard.2017.S01E(?=[0-1][0-9]) => The.Young.Imperial.Guard.2017.S01E && S01E <> WEB >> EP+1
+The.Young.Imperial.Guard.2017.S02E(?=[0-1][0-9]) => The.Young.Imperial.Guard.2017.S02E && S02E <> WEB >> EP+1
+凡人修仙传.魔道争锋.Mortal.Cultivation.Biography.S02E(?=[0-2][0-9]) => 凡人修仙传.S01E && S01E <> 2021 >> EP+21
+凡人修仙传.再别天南.Mortal.Cultivation.Biography.S03E(?=[0-1][0-9]) => 凡人修仙传.S01E && S01E <> 2022 >> EP+46
+凡人修仙传.初入星海.Mortal.Cultivation.Biography.S04E(?=[0-1][0-9]) => 凡人修仙传.S01E && S01E <> 2022 >> EP+60
+Stand.By.Me.2016 => 一起同过窗.2016
+\[无头骑士异闻录\].Durarara.2010.Ep12\+ => 无头骑士异闻录.2010.S00E01 {[tmdbid=42410;type=tv;s=00;e=01]}
+\[无头骑士异闻录\].Durarara.2010.Ep25 => 无头骑士异闻录.2010.S00E02 {[tmdbid=42410;type=tv;s=00;e=02]}
+Suzumiya.Haruhi.no.Taisei => 凉宫春日的忧郁 {[tmdbid=42511;type=tv]}
+The.Matrix.Revolution => 黑客帝国3：矩阵革命
+Edward.Scissorhands.25th.Anniversary.Remastered.Edition => 剪刀手爱德华.1990
+Wreck-It.Ralph2012 => Wreck-It.Ralph.2012
+Hachi.A.Dog'sTale => 忠犬八公的故事
+The.Trueman.Show => 楚门的世界
+12.Angry.Men.1957 => 十二怒汉.1957
+CCTV6-HD.The.Teahouse => The.Teahouse
+สิ่งเล็กเล็กที่เรียกว่า...รัก.A.Little.Thing.Called.Love.AKA.First.Love => A.Little.Thing.Called.Love.AKA.First.Love
+Detective.Conan.Movie.(?=[0-9][0-9]) => Detective.Conan
+Coco.2017 => 寻梦环游记.Coco.2017
+^Friends.S(?=[0-1][0-9]) => 老友记.Friends.S
+剧终幕后特辑.The.Big.Bang.Theory.S12E25.Extras => The.Big.Bang.Theory.S12E25
+Scary.Movie3 => 惊声尖笑3
+\.Episode\.[IVXLCDM]+
+The.Big.Loboski.1998 => 谋杀绿脚趾.1998
+EBC.The.Ultimate.Vampire => The.Ultimate.Vampire
+CHC.Dinner.Party.2012 => 饭局也疯狂.2012
+\[埃及艳后\].Cleopatra.1963.50th.Anniversary.Edition.Part.Ⅰ => 埃及艳后.1963.part1
+\[埃及艳后\].Cleopatra.1963.50th.Anniversary.Edition.Part.Ⅱ => 埃及艳后.1963.part2
+Black.Mirror.S03E00 => Black.Mirror.S00E01
+潘达斯奈基.Black.Mirror.Bandersnatch => Black.Mirror.Bandersnatch {[tmdbid=569547;type=movie]}
+僵尸道长2 \( => 僵尸道长.S02E{[tmdbid=76085;type=tv;s=02]}
+僵尸道长(?=[0-3][0-9]) => 僵尸道长.S01E{[tmdbid=76085;type=tv;s=01]}
+\[葫芦兄弟\].The.Gourd.Brothens.1986 => 葫芦兄弟.1986.S01
+\[葫芦小金刚\].Hu.Lu.Xiao.Jin.Gang.1991 => 葫芦兄弟.1991.S02
+The.Story.of.Pipi.1988 => 皮皮的故事.1988
+Zhangfei.Shen.Gua.1980 => 张飞审瓜.1980
+Monkey.Fishing.1983 => 猴子钓鱼.1983
+Cao.Chong.Weighs.the.Elephant.1982 => 曹冲称象.1982
+Squirrel.Barber.1983 => 松鼠理发师.1983
+Proud.General.1956 => 骄傲的将军.1956
+Sword.Art.Online：Alicization-War.of.Underworld.S04E00 => Sword.Art.Online.S00E24
+Sword.Art.Online：Alicization-War.of.Underworld.S04E12.part2 => Sword.Art.Online.S00E25
+Sword.Art.Online：Alicization-War.of.Underworld.S04E12.part1 => Sword.Art.Online.S04E12
+Sword.Art.Online：Alicization-War.of.Underworld => Sword.Art.Online
+全职高手第二季.The.King's.Avatar.2020 => 全职高手.2017 {[tmdbid=71194;type=tv;s=02]}
+Special.Fleet.1993 => 特别车队.1993
+Fall.2022.BluRay.2160p => 坠落.2022.BluRay.2160p{[tmdbid=985939;type=movie]}
+Final.Destination.2003 => 死神来了2.2003
+\[警察学校5：迈阿密之旅\].Police.Academy.5：Assignment：Miami.Beach.1988 => 警察学校5：迈阿密之旅.1988
+\[警察学校：莫斯科任务\].Police.Academy：Mission.to.Moscow.1994 => 警察学校7：进军莫斯科.1994
+Shiki 2010 - EP20.5 => Shiki 2010 - S00E01
+Shiki 2010 - EP21.5 => Shiki 2010 - S00E02
+The Mad Monk 1985 => 济公.1985
+Higurashi.no.Naku.Koro.Ni.Kai.2007 => 寒蝉鸣泣之时.2007.S02
+\[Higurashi no Naku Koro ni\]\[27\(OVA\)\] => Higurashi no Naku Koro ni.S00E00
+Tengen.Toppa.Gurren.Lagann.2007-2009.TV.OVA.SP.Fin.CD.BluRay.MNHD-FRDS => Tengen.Toppa.Gurren.Lagann.2007-2009.TV.BluRay.MNHD-FRDS
+Tengen.Toppa.Gurren.Lagann.2007.E06.There.are.Some.Things.I.just.Have.to.See => Tengen.Toppa.Gurren.Lagann.2007.S00E01
+Tengen.Toppa.Gurren.Lagann.2007.E5.5\(OVA\).My.Gurren.is.Shiny => Tengen.Toppa.Gurren.Lagann.2007.S00E02
+The.Asterisk.War.S01E(?=1[3-9]|2[0-4])  => The.Asterisk.War.S02E && S02E <> 2015 >> EP-12
+\[散华礼弥 OAD\].Sankarea.EP00 => 散华礼弥.Sankarea.S00E01
+Accel.World => 加速世界 {[tmdbid=43167;type=tv]}
+Eromanga Sensei \[OVA01\] => Eromanga Sensei.S00E01
+Eromanga Sensei \[OVA02\] => Eromanga Sensei.S00E02
+从前有座灵剑山.Hoshikuzu-tachi.no.Utage => 从前有座灵剑山.Hoshikuzu-tachi.no.Utage.2016
+My.Love.from.the.Star => My.Love.from.the.Star.2013
+Jashin-chan Dropkick S01E12 => Jashin-chan Dropkick S00E01
+ReLIFE \[14\(OVA01\)\] => ReLIFE S00E01
+ReLIFE \[15\(OVA02\)\] => ReLIFE S00E02
+ReLIFE \[16\(OVA03\)\] => ReLIFE S00E03
+ReLIFE \[17\(OVA04\)\] => ReLIFE S00E04
+Hell.Girl.Fourth.Twilight.S01 => 地狱少女.S04
+地狱少女.Hell.Girl.2006 => 地狱少女.2005
+God.of.Tower => 神之塔
+「アルピニストエンジェル」|「べーやん」|「苺の戦士　登場ニョリン www」|「ヒモティス」
+Gekijouban.Toaru.majutsu.no.indekkusu.Endyumion.no.kiseki.2013 => 魔法禁书目录：恩底弥翁的奇迹.2013
+\[Yondemasuyo, Azazel-san.Z\] => 恶魔阿萨谢尔在召唤你Z {[tmdbid=49294;type=tv;s=02]}
+天地创造设计部.Heaven's.Design.Team.S01E13 => 天地创造设计部.Heaven's.Design.Team.S00E00
+Kobayashi-san Chi no Maidragon S S02E13 => Kobayashi-san Chi no Maidragon S S00E30
+Kobayashi-san Chi no Maid Dragon S01E14 => Kobayashi-san Chi no Maid Dragon S00E08
+Food.Wars.The.Fifth.Plate => 食戟之灵
+Food.Wars.The.Fourth.Plate => 食戟之灵
+Kobayashi-san Chi no Maid Dragon - Minidora => 小林家的龙女仆
+\[Tonari no Kaibutsu-kun\]\[14\(OAD\)\] => 邻座的怪同学.S00E01
+Kuroko's.Basketball.2012.S01.Ep22\+ => Kuroko's.Basketball.2012.S00E10
+\(Special Summary\)Vivy Fluorite Eye's Song S00E01 => Vivy Fluorite Eye's Song S00E01
+\[SumiSora\]\[Maousama\] => 打工吧！魔王大人
+\[x264_2flac\](.*)|\[x264_flac\](.*)
+\[K Return of Kings\]\[(?=[0-1][0-9]) => K Return of Kings.S02.
+\[K Missing Kings\] => K 失落之王.2014 {[tmdbid=271708;type=movie]}
+新神雕侠侣.The.Romance.of.The.Condor.Heroes.2014 => 神雕侠侣.2014 {[tmdbid=68871;type=tv]}
+天上掉下个猪八戒.Tian.shang.diao.xia.ge.zhu.ba.jie.S01E(?=05[3-9]|0[6-9][0-9]|10[0-4]) => 天上掉下个猪八戒.S02E && S02E <> 2005 >> EP-52
+\[孔雀翎\].Kong.Que.Ling.2010 => 七种武器之孔雀翎.2011
+Wu.Xin.the.Monster.Killer.II => Wu.Xin.the.Monster.Killer
+Wu.Xin.the.Monster.Killer.Ⅲ => Wu.Xin.the.Monster.Killer
+\[伪装者\].The.Disguiser.2015 => 伪装者DVD版.The.Disguiser.2015 {[tmdbid=233561;type=tv]}
+The.Disastrous.Life.of.Saiki.K.S03 => The.Disastrous.Life.of.Saiki.K.S00
+Inside.No.9.S03E06 => Inside.No.9.S00E01
+Inside.No.9.S05E00.Live.Dead.Line => Inside.No.9.S00E02
+The.Classification.of.Spirit.2018.E(?=1[3-9]|2[0-4]) => The.Classification.of.Spirit.2018.S02E && S02E <> WEB\-DL >> EP-12
+The.Pawnshop.NO.8.2006.S02 => The.Pawnshop.NO.8.2006.S01 && S01E <> 576p >> EP+39
+The.Pawnshop.NO.8.2006.S03 => The.Pawnshop.NO.8.2006.S01 && S01E <> 576p >> EP+89
+The.Girl.in.the.Spiders.Web.2018 => 蜘蛛网中的女孩.2018
+Visuals.2013 => 较量.2013
+The.Girl.with.the.Dragon.Tattoo.Part.II.2009 => 龙纹身的女孩.2009.part2
+The.Girl.with.the.Dragon.Tattoo.Part.I.2009 => 龙纹身的女孩.2009.part1
+The.Girl.Who.Played.with.Fire.Part.I.2009 => 玩火的女孩.2009.part1
+The.Girl.Who.Played.with.Fire.Part.II.2009 => 玩火的女孩.2009.part2
+The.Girl.Who.Kicked.the.Hornet's.Nest.Part.II.2009 => 捅马蜂窝的女孩.2009.part2
+The.Girl.Who.Kicked.the.Hornet's.Nest.Part.I.2009 => 捅马蜂窝的女孩.2009.part1
+Missing.2023 => 网络谜踪2.2023
+Triangle.2009 => 恐怖游轮.2009
+Escape.Room.Tournament.Of.Champions.2021 => 密室逃生2.2021
+Beyond.the.Boundary.S01E00 => Beyond.the.Boundary.S00E06
+Beyond.the.Boundary.S01E13 => Beyond.the.Boundary.S00E01E02E03E04E05 {[tmdbid=61695;type=tv;s=00;e=1,5]}
+The.Confidenceman.JP.Unsei.Hen.SP.2019 => 行骗天下JP：运势篇.2019
+It.2017 => 小丑回魂.2017
+Non Non Biyori Repeat \[13\(OAD\)\] => 悠哉日常大王.S00E02
+Non Non Biyori Repeat => 悠哉日常大王.S02
+Non Non Biyori \[13\(OAD\)\] => 悠哉日常大王.S00E01
+Non Non Biyori => 悠哉日常大王.S01
+Non.Non.Biyori.Nonstop => 悠哉日常大王.S03
+\[Log Horizon 2\] => 记录的地平线.S02
+\[Log Horizon Entaku Houkai\] => 记录的地平线.S03
+KILL la KILL 2013 - EP25 => 斩服少女.S00E01
+Pillow.Knife.Song.SP1E01 => 枕刀歌.S01E13
+Pillow.Knife.Song.SP1E02 => 枕刀歌.S01E14
+Night.At.The.Museum.I.2006 => 博物馆奇妙夜.2006
+Keep.Cool.1997 => 有话好好说.1997
+灌篮高手 剧场版1：樱木花道VS小田 \(1994\) => 灌篮高手.S00E03.1994
+灌篮高手 剧场版2：称霸全国！樱木花道 \(1994\) => 灌篮高手.S00E04.1994
+灌篮高手 剧场版3：湘北最大的危机！樱木花道燃起斗志 \(1995\) => 灌篮高手.S00E05.1994
+灌篮高手 剧场版4：咆哮吧！篮球员之魂！樱木与流川枫的灼热夏季 \(1995\) => 灌篮高手.S00E06.1994
+Capsule.S => 胶囊计划.Capsule.S
+War.and.Peace.1966.Part.III.The.Year.1812 => 战争与和平3：1812年.1967
+Battle.Royal.DC.2000 => 大逃杀.2000
+PK.2014 => 我的个神啊.2014
+Reply 1997 => 请回答1997
+Dear.My.Friends => 我亲爱的朋友们
+\[如蝶翩翩\].Like.Butterfly.2021 => 如蝶翩翩.2021{[tmdbid=66434;type=tv]}
+Modern.Family.S11E00 => Modern.Family.S00E04
+Blind.2011 => 盲证.2011
+Doctor.Who.S03E00 => Doctor.Who.S00E04
+Doctor.Who.S04E00 => Doctor.Who.S00E07
+Doctor.Who.S06E00 => Doctor.Who.S00E34
+([0-9][0-9]|1[0-2][0-9])([^0-9]+).mp4 => \1.\2.mp4
+Legend.of.Lu.Xiao.Feng.E01 => 陆小凤传奇之陆小凤前传 {[tmdbid=612756;type=movie]}
+Legend.of.Lu.Xiao.Feng.E02 => 陆小凤传奇之铁鞋传奇 {[tmdbid=612760;type=movie]}
+Legend.of.Lu.Xiao.Feng.E03 => 陆小凤传奇之大金鹏王 {[tmdbid=612758;type=movie]}
+Legend.of.Lu.Xiao.Feng.E04 => 陆小凤传奇之绣花大盗 {[tmdbid=612763;type=movie]}
+Legend.of.Lu.Xiao.Feng.E05 => 陆小凤传奇之决战前后 {[tmdbid=612759;type=movie]}
+Legend.of.Lu.Xiao.Feng.E06 => 陆小凤传奇之银钩赌坊 {[tmdbid=612765;type=movie]}
+Legend.of.Lu.Xiao.Feng.E07 => 陆小凤传奇之幽灵山庄 {[tmdbid=612762;type=movie]}
+Legend.of.Lu.Xiao.Feng.E08 => 陆小凤传奇之剑神一笑 {[tmdbid=612764;type=movie]}
+Legend.of.Lu.Xiao.Feng.E09 => 陆小凤传奇之凤舞九天 {[tmdbid=612761;type=movie]}
+Legend.of.Lu.Xiao.Feng.E10 => 陆小凤传奇之血衣之谜 {[tmdbid=534093;type=movie]}
+我和僵屍有個約會 III- => 我和僵尸有个约会.S03E
+\[蚂蚁仔www.mayizai.com\]\[A计划\] => A计划 {[tmdbid=124753;type=tv]}
+\[DVD-MKV\]
+The.VI.Group.of.Fatal.Case.Ⅰ.2001 => The.VI.Group.of.Fatal.Case.S01.2001
+The.VI.Group.of.Fatal.Case.Ⅱ.2003 => The.VI.Group.of.Fatal.Case.S02.2003
+The.VI.Group.of.Fatal.Case.Ⅲ.2009 => The.VI.Group.of.Fatal.Case.S03.2009
+The.VI.Group.of.Fatal.Case.Ⅳ.2011 => The.VI.Group.of.Fatal.Case.S04.2011
+Li.Wei.Dang.Guan.S02 => 李卫当官.S02
+Da.Nei.Di.Shou.2010 => 李卫当官.S03
+Chuan.Yue.Shi.Kong.De.Ai.Lian => 穿越时空的爱恋
+Kung.Fu.Panda.2.2011 => 功夫熊猫2.2011 {[tmdbid=49444;type=movie]}
+Dragon.Fist.1979 => 龙拳.1979
+Shaolin.Wooden.Men.1976 => 少林木人巷.1976
+Snake.and.Crane.Arts.of.Shao.lin.1978 => 蛇鹤八步.1978
+Dragon.Zakura.2021 => Dragon.Zakura.S02.2005
+\[流浪地球 飞跃2020特别版\].The.Wandering.Earth.2019 => 流浪地球：飞跃2020特别版.2020
+Kingdom.Ashin.of.the.North.2021 => 王国：北方的阿信.2021 {[tmdbid=845222;type=movie]}
+Shameless.S => 无耻之徒.S
+天鹅挽歌.House.M.D.S08end.Sp.2012 => 豪斯医生.S00E05.2004
+How.I.Met.Your.Mother => 老爸老妈的浪漫史
+风云2.E => 风云.S02.E
+齐天大圣孙悟空([0-9][0-9]) => 齐天大圣孙悟空.S01.E\1
+敗家仔([0-9][0-9]) => 方谬神探.S01.E\1
+La.Casa.De.Papel.S01 => La.Casa.De.Papel.S00
+La.Casa.De.Papel.S02 => La.Casa.De.Papel.S00 && S00E <> 2018 >> EP+13
+La.Casa.De.Papel.S03 => La.Casa.De.Papel.S02
+La.Casa.De.Papel.S04 => La.Casa.De.Papel.S02 && S02E <> 2020 >> EP+8
+La.Casa.De.Papel.S05 => La.Casa.De.Papel.S03
+冲出宁静号\(国英\).Serenity.2005 => 冲出宁静号.Serenity.2005
+Downton.Abbey.S02E09.Christmas.2011 => Downton.Abbey.S00E02.2011
+Downton.Abbey.S03E09.Christmas.2012 => Downton.Abbey.S00E03.2012
+Downton.Abbey.S04E09.Christmas.2013 => Downton.Abbey.S00E05.2013
+Downton.Abbey.S05E09.Christmas.2014 => Downton.Abbey.S00E06.2014
+Downton.Abbey.S06E09.Christmas.2015 => Downton.Abbey.S00E11.2015
+Sense8.S02E00.A.Christmas.Special.2016 => Sense8.S02E00.2017
+Sense8.S02E11.Finale.Special.2018 => Sense8.S02E11.2017
+Sense8.S02E <> 2017 >> EP+1
+Downton.Abbey.2019 => 唐顿庄园.2019 {[tmdbid=535544;type=movie]}
+Downton.Abbey.A.New.Era.2022 => 唐顿庄园2.2022 {[tmdbid=820446;type=movie]}
+The.X.Files.I.Want.to.Believe.DC.2008 => X档案：我要相信.2008 {[tmdbid=8836;type=movie]}
+The.X-Files.Fight.the.Future.1998 => X档案：征服未来.1998 {[tmdbid=846;type=movie]}
+Criminal.Minds.S16 => 犯罪心理.S16 {[tmdbid=4057;type=tv]}
+Code.Blue.SP.2009 => Code.Blue.S00E01.2009
+Code.Blue.SP.1080p => Code.Blue.S00E07.2009
+Galileo.S01E11.2007 => Galileo.S00E01.2007
+\[逃避虽可耻但有用 新春特别篇\].We.Married.as.a.Job.Special.2021 => 逃避虽可耻但有用.2016.S00E01
+The.Battle.At.Lake.Changjin.2022 => 长津湖之水门桥.2022
+Nanatsu.no.Taizai.Seisen.no.Shirushi.OVAE01 => Nanatsu.no.Taizai.Seisen.no.Shirushi.S00E04
+Nanatsu.no.Taizai.Seisen.no.Shirushi.OVAE02 => Nanatsu.no.Taizai.Seisen.no.Shirushi.S00E05
+Nanatsu.no.Taizai.Seisen.no.Shirushi.OVAE03 => Nanatsu.no.Taizai.Seisen.no.Shirushi.S00E06
+Nanatsu.no.Taizai.Seisen.no.Shirushi.OVAE04 => Nanatsu.no.Taizai.Seisen.no.Shirushi.S00E07
+Nanatsu no Taizai S04 => 七大罪.S04E
+乐透大作战.2022 => 乐透大作战.2022 {[tmdbid=821153;type=movie]}
+Caught.in.the.Web.2012 => 搜索.2012 {[tmdbid=121795;type=movie]}
+RRR.Hindi.2022 => 双雄起义.2022 {[tmdbid=579974;type=movie]}
+医馆笑传1.Yi.Guan.Xiao.Zhuan.S01 => 医馆笑传.S01
+医馆笑传2.Yi.Guan.Xiao.Zhuan.2016.S02 => 医馆笑传.S02
+\[午夜凶铃2：贞子缠身\].Ring.2.REMASTERED.1999 => 午夜凶铃2：贞子缠身.1999
+\[午夜凶铃3：贞相大白\].Ring.0.REMASTERED.2000 => 午夜凶铃3：贞相大白.2000
+诈欺游戏2.Liar.Game II.2009 => 诈欺游戏.2009.S02
+多哥\(国英\).Togo.2019 => 多哥.Togo.2019
+MONDAYS.2022 => 如果不让上司注意到这个时间循环就无法结束.2022
+After.the.Rain.2018 => 恋如雨止.2018
+日月神剑之捉妖奇兵.1991 => 日月神剑.1991.S02
+Duan.Nao.2014 => 端脑.2014 {[tmdbid=79634;type=tv]}
+\[Back Street Girls Goku Dolls\] => 后街女孩.2018 {[tmdbid=80613;type=tv]}
+Back.Street.Girls.2019 => 后街女孩.2019 {[tmdbid=572630;type=movie]}
+The.Fable.2.2021 => 杀手寓言：杀手不杀人.2021
+Mashle.S02E(?=[0-1][0-9]) => 物理魔法使马修.S01E && S01E <> 1080p >> EP+12
+100.Yen.Love.2014 => 百元之恋.2014
+Proposal.Daisakusen.SP.2008 => Proposal.Daisakusen.2007.S00E01
+Endeavour.S01E00.2012 => Endeavour.S00E01.2012
+首尔之春.12.12.The.Day.2023 => 首尔之春.2023
+Eye.for.an.Eye.2024 => 目中无人2.2024
+華麗なる一族 => 华丽一族 {[tmdbid=6793;type=tv]}
+Bean.The.Movie.1997 => 憨豆先生的大灾难.1997
+
+满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
+Crazy.Love.1993 => 蜜桃成熟时.1993
+Fifty.Shades.of.Grey.2015 => 五十度灰.2015 {[tmdbid=216015;type=movie]}
+色即是空II.Sex.Is.Zero.II.2007 => 色即是空2.2007
+Sex.and.Zen.Extreme.Ecstasy.Director's.Cut => 3D肉蒲团之极乐宝鉴
+The.Forbidden.Legend.Sex.And.Chopsticks.I.2008 => 金瓶梅.2008
+The.Forbidden.Legend.Sex.And.Chopsticks.II.2009 => 金瓶梅2：爱的奴隶.2009
+\[晚娘\].泰粤双语.Jan.Dara.2001 => 晚娘.Jan.Dara.2001
+深喉.Deep.Throat.1972.AUT => 深喉.1972 {[tmdbid=5853;type=movie]}
+聊斋艳谭5.聊斋婴宁 => 聊斋艳谭之婴宁
+聊斋艳谭9.聊斋画皮 => 聊斋艳谭之聊斋画皮
+中国香港-邵氏肉肉.销魂玉.Return of the Dead.1979.DVD5 => 销魂玉.Return of the Dead.1979
+3D.Naked.Ambition.2014 => 3D豪情.2014 {[tmdbid=263132;type=movie]}
+\[足本玉蒲团\].Yu.Pui.Tsuen.1987 => 足本玉蒲团.1987
+\[惊变\(国粤双语\)\].All.of.a.Sudden.1996 => 惊变.1996
+Hua.Jie.Liu.Xiang.2015 => 花街柳巷.2015
+\[白百合\].White.Lily.2016 => 白百合.2016 {[tmdbid=439466;type=movie]}
+Emmanuelle.I.1974 => Emmanuelle.1974
+Human.Centipede.II.Full.Sequence2011 => Human.Centipede.II.Full.Sequence.2011.
+America.Pie.1999 => 美国派.1999
+\[不可撤销\].Irreversible.Theatrical.Cut.2002 => 不可撤销.2002
