@@ -311,7 +311,7 @@ Bean.The.Movie.1997 => 憨豆先生的大灾难.1997
 \[大宋宫词\].Palace.of.Devotion.2021.Ep61WEB-DL => \[大宋宫词\].Palace.of.Devotion.2021.Ep61.WEB-DL
 \[解除好友2\].Unfriended.Dark.Web.2018 => 解除好友2：暗网.2018
 潜行.I.Did.It.My.Way.2023 => 潜行.2023 {[tmdbid=999056;type=movie]}
-\[Salender-Raws\] Space Dandy - (?=1[4-9]|2[0-9]) => Space Dandy.S02E
+\[Salender-Raws\] Space Dandy - (?=1[4-9]|2[0-9]) => Space Dandy.S02E && S02E <> \[BDRip >> EP-13
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
 Crazy.Love.1993 => 蜜桃成熟时.1993
