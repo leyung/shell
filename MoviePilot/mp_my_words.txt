@@ -204,10 +204,11 @@ Pillow.Knife.Song.SP1E01 => 枕刀歌.S01E13
 Pillow.Knife.Song.SP1E02 => 枕刀歌.S01E14
 Night.At.The.Museum.I.2006 => 博物馆奇妙夜.2006
 Keep.Cool.1997 => 有话好好说.1997
-灌篮高手 剧场版1：樱木花道VS小田 \(1994\) => 灌篮高手.S00E03.1994
-灌篮高手 剧场版2：称霸全国！樱木花道 \(1994\) => 灌篮高手.S00E04.1994
-灌篮高手 剧场版3：湘北最大的危机！樱木花道燃起斗志 \(1995\) => 灌篮高手.S00E05.1994
-灌篮高手 剧场版4：咆哮吧！篮球员之魂！樱木与流川枫的灼热夏季 \(1995\) => 灌篮高手.S00E06.1994
+Slam.Dunk.EP021.SP.1993 => 灌篮高手.S00E02.1994
+Slam.Dunk.the.Movie.1.1994 => 灌篮高手.S00E03.1994
+Slam.Dunk.the.Movie.2.1994 => 灌篮高手.S00E04.1994
+Slam.Dunk.the.Movie.3.1995 => 灌篮高手.S00E05.1994
+Slam.Dunk.the.Movie.4.1995 => 灌篮高手.S00E06.1994
 Capsule.S => 胶囊计划.Capsule.S
 War.and.Peace.1966.Part.III.The.Year.1812 => 战争与和平3：1812年.1967
 Battle.Royal.DC.2000 => 大逃杀.2000
@@ -307,6 +308,10 @@ Endeavour.S01E00.2012 => Endeavour.S00E01.2012
 Eye.for.an.Eye.2024 => 目中无人2.2024
 華麗なる一族 => 华丽一族 {[tmdbid=6793;type=tv]}
 Bean.The.Movie.1997 => 憨豆先生的大灾难.1997
+\[大宋宫词\].Palace.of.Devotion.2021.Ep61WEB-DL => \[大宋宫词\].Palace.of.Devotion.2021.Ep61.WEB-DL
+\[解除好友2\].Unfriended.Dark.Web.2018 => 解除好友2：暗网.2018
+潜行.I.Did.It.My.Way.2023 => 潜行.2023 {[tmdbid=999056;type=movie]}
+\[Salender-Raws\] Space Dandy - (?=1[4-9]|2[0-9]) => Space Dandy.S02E
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
 Crazy.Love.1993 => 蜜桃成熟时.1993
