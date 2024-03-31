@@ -313,6 +313,13 @@ Bean.The.Movie.1997 => 憨豆先生的大灾难.1997
 潜行.I.Did.It.My.Way.2023 => 潜行.2023 {[tmdbid=999056;type=movie]}
 \[Salender-Raws\] Space Dandy - (?=1[4-9]|2[0-9]) => Space Dandy.S02E && S02E <> \[BDRip >> EP-13
 Ashes.of.Time.Redux.2008 => 东邪西毒.2008
+Tommy.Boy.1995.BluRay.720p => Tommy.Boy.1995.BluRay.1080p
+The.Bad.Guys2022 => The.Bad.Guys.2022
+Evan.Almighty.2007 => 冒牌天神2.2007
+\[下一站，天国\].After.Life.1998 => 下一站，天国.1998
+\[信笺故事\].The.Tale.2018 => 信笺故事.2018
+\[反叛\].Die.Rebellion.FRA => 反叛.1993
+The.Matrix.Revolutions.2003 => 黑客帝国3：矩阵革命.2003
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
 Crazy.Love.1993 => 蜜桃成熟时.1993
