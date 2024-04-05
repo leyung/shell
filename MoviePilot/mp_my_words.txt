@@ -321,8 +321,8 @@ Evan.Almighty.2007 => 冒牌天神2.2007
 \[反叛\].Die.Rebellion.FRA => 反叛.1993
 The.Matrix.Revolutions.2003 => 黑客帝国3：矩阵革命.2003
 Fang.Hua.AKA.Youth.2017 => 芳华.2017
-Legal.High.SP.2013 => Legal.High.S00E01.2013
-Legal.High.SP2.2014 => Legal.High.S00E02.2013
+Legal.High.SP.2013 => Legal.High.S00E01.2012
+Legal.High.SP2.2014 => Legal.High.S00E02.2012
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
 Crazy.Love.1993 => 蜜桃成熟时.1993
