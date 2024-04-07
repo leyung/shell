@@ -1,4 +1,15 @@
+#辅助识别修正词
+(\b[5-9]\b|\b[1-9][0-9]\b) \[ =>  E\1 [
+(?<=[\[【].*?(?:组|組|sub|S(?:UB|ub|tudio)|Raw(?:|s)|社)[\]】])(?:(?:\[|【|★|)\d{1,2}月新番(?:\]|】|★|)|)[\[【](.*?)[\]】] => \1
+^[\W_](.*?(?:组|組|屋|社|動漫|Lab|sub|S(?:UB|ub|tudio)|Raw(?:|s)|Production))[\W_]+(?:[\W_]+\d{1,2}(?:月(?:新|)番|国漫)[\W_]+|)[\[【](.*?)[\]】] => [\1] \2 
+\(([^\(\)\s]+)\)\.(mp4|mkv) => 
+[【\[](Fin|END)[】\]]|(?:|\s|\s-\s)(Fin|END)(?=\])|(?<=\d{1,2})(Fin|END) => 
+Hi10p_1080p => 1080p x264
+Ma10p_1080p => 1080p x265
+HEVC Main10P => x265
+
 Jujutsu.Kaisen.S02E => Jujutsu.Kaisen.S01E && Jujutsu.Kaisen.S01E <> 2023 >> EP+24
+One.Piece.S01(?=.*ADWeb) => One Piece S22
 One.?Piece.?S01E(?=006[2-9]|007[0-7]) => One Piece S02E
 One.?Piece.?S01E(?=007[8-9]|008[0-9]|009[0-1]) => One Piece S03E
 One.?Piece.?S01E(?=009[2-9]|01[0-2][0-9]|0130) => One Piece S04E
@@ -323,6 +334,9 @@ The.Matrix.Revolutions.2003 => 黑客帝国3：矩阵革命.2003
 Fang.Hua.AKA.Youth.2017 => 芳华.2017
 Legal.High.SP.2013 => Legal.High.S00E01.2012
 Legal.High.SP2.2014 => Legal.High.S00E02.2012
+Mahouka Koukou no Rettousei Tsuioku Hen => 魔法科高校的劣等生 追忆篇.2021
+The Irregular At Magic High School (?=[0-1][0-9]|2[0-6]) => 魔法科高校的劣等生.2014.S01E
+\[Mahouka Koukou no Rettousei Raihousha Hen\]\[(?=[0-1][0-9]) => 魔法科高校的劣等生.2014.S02E
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
 Crazy.Love.1993 => 蜜桃成熟时.1993
