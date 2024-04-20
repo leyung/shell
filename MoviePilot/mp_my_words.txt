@@ -337,6 +337,11 @@ Legal.High.SP2.2014 => Legal.High.S00E02.2012
 Mahouka Koukou no Rettousei Tsuioku Hen => 魔法科高校的劣等生 追忆篇.2021
 The Irregular At Magic High School (?=[0-1][0-9]|2[0-6]) => 魔法科高校的劣等生.2014.S01E
 \[Mahouka Koukou no Rettousei Raihousha Hen\]\[(?=[0-1][0-9]) => 魔法科高校的劣等生.2014.S02E
+\[红·粉\].Aka.x.Pinku.AKA.Girl's.Blood.2014 => 红X粉.2014
+Archive.2020 => 绝密档案.2020 {[tmdbid=606234;type=movie]}
+Once.Upon.a.Time.in.China.III1992 => 黄飞鸿之狮王争霸.1992
+\[城南旧事\].My.Memories.of.Old.Beijing.1983 => 城南旧事.1983 {[tmdbid=195237;type=movie]}
+Once.Upon.a.Time.in.China.and.America.1997 => 黄飞鸿之六：西域雄狮.1997
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
 Crazy.Love.1993 => 蜜桃成熟时.1993
