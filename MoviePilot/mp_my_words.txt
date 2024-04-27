@@ -342,6 +342,11 @@ Archive.2020 => 绝密档案.2020 {[tmdbid=606234;type=movie]}
 Once.Upon.a.Time.in.China.III1992 => 黄飞鸿之狮王争霸.1992
 \[城南旧事\].My.Memories.of.Old.Beijing.1983 => 城南旧事.1983 {[tmdbid=195237;type=movie]}
 Once.Upon.a.Time.in.China.and.America.1997 => 黄飞鸿之六：西域雄狮.1997
+\[长大\].Big.Extended.Edition.1988 => 长大.1988
+家有仙妻Ⅱ.Bewitched.II.2000 => 家有仙妻.S02.1991
+\[狐妖小红娘·月红2\].The.Fox.Spirit.Matchmaker.2021 => 狐妖小红娘·月红2.2021
+\[浮云世事\].Drifting.Clouds.CHN.1996 => 浮云世事.1996
+\[没有过去的男人\].The.Man.Without.a.Past.CHN.2002 => 没有过去的男人.2002
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
 Crazy.Love.1993 => 蜜桃成熟时.1993
@@ -364,3 +369,6 @@ Emmanuelle.I.1974 => Emmanuelle.1974
 Human.Centipede.II.Full.Sequence2011 => Human.Centipede.II.Full.Sequence.2011.
 America.Pie.1999 => 美国派.1999
 \[不可撤销\].Irreversible.Theatrical.Cut.2002 => 不可撤销.2002
+欲海花【增强版】 => 欲海花.1993
+赤裸狂花【增强版】 => 赤裸狂花.1994
+尸蛊艳谭【增强版】 => 尸蛊艳谭.1993
