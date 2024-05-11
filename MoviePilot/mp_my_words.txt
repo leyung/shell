@@ -352,6 +352,11 @@ Once.Upon.a.Time.in.China.and.America.1997 => 黄飞鸿之六：西域雄狮.199
 \[寄生兽：完结篇\].Parasyte.Part.II.2015 => 寄生兽：完结篇.2015
 Cells.at.Work.S01E14.Special => Cells.at.Work.S00E01
 \[工作细胞：细胞大作战\].Cells.at.Work.Movie.2020 => 工作细胞：细胞大作战.2020
+\[哥斯拉-1.0\].Gojira.-1.0.2023 => 哥斯拉-1.0.2023 {[tmdbid=940721;type=movie]}
+\[赤壁\(上\)\].Red.Cliff.Part1.2008 => 赤壁（上）.2008
+\[赤壁\(下\)\].Red.Cliff.Part2.2009 => 赤壁（下）.2009
+One.Piece.3D.Mugiwara.cheisu.2011 => 海贼王：追寻草帽.2011
+\[前目的地\].Predestination.2014 => 前目的地.2014
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
 Crazy.Love.1993 => 蜜桃成熟时.1993
