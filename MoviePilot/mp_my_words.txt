@@ -357,6 +357,16 @@ Cells.at.Work.S01E14.Special => Cells.at.Work.S00E01
 \[赤壁\(下\)\].Red.Cliff.Part2.2009 => 赤壁（下）.2009
 One.Piece.3D.Mugiwara.cheisu.2011 => 海贼王：追寻草帽.2011
 \[前目的地\].Predestination.2014 => 前目的地.2014
+狗狗与我的十个约定.10.Promises.to.My.Dog.2008 => 狗狗与我的十个约定.2008
+Demon.Slayer.S03(?=.*WiKi) => Demon.Slayer.S04
+Demon.Slayer.S02(?=.*WiKi) => Demon.Slayer.S03
+Crimson.Peak.2015 => 猩红山峰.2015
+Mad.Max.1.1979 => 疯狂的麦克斯.1979
+Rango.2011 => 兰戈.2011
+\[欢笑老弄堂\].Huan.Xiao.Lao.Long.Tang => 欢笑老弄堂
+Jade Dynasty => 诛仙 (2022){[tmdbid=206484;]}
+To_Aru_Kagaku_no_Railgun_S => 某科学的超电磁炮 {[tmdbid=30977;type=tv;s=02]}
+Toaru Kagaku no Railgun T => 某科学的超电磁炮 {[tmdbid=30977;type=tv;s=03]}
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
 Crazy.Love.1993 => 蜜桃成熟时.1993
