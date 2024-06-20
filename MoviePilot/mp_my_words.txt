@@ -371,6 +371,14 @@ Toaru Kagaku no Railgun T => 某科学的超电磁炮 {[tmdbid=30977;type=tv;s=0
 \[Yousei-raws\] Toaru Majutsu no Index II  => 魔法禁书目录.S02E
 \[Yousei-raws\] Toaru Majutsu no Index  => 魔法禁书目录.S01E
 \[Toaru Majutsu no Index III\]\[ => 魔法禁书目录.S03E
+Leap.2020 => 夺冠.2020
+シドニアの騎士 第九惑星戦役 => 希德尼娅的骑士.S02
+ノーゲーム・ノーライフ  => 游戏人生.2014.S01E
+War.and.Peace => 战争与和平.S01
+Cobweb.2023 => 蜘蛛网.2023
+最佳拍档之醉街拍档.97.Aces.Go.Places.1997 => 最佳拍档之醉街拍档.1997
+\[EggPain-Raws\&VCB-Studio\] School Days  => School Days.S01E
+MR.VampireII1986 => 僵尸家族.1986
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
 Crazy.Love.1993 => 蜜桃成熟时.1993
@@ -396,3 +404,4 @@ America.Pie.1999 => 美国派.1999
 欲海花【增强版】 => 欲海花.1993
 赤裸狂花【增强版】 => 赤裸狂花.1994
 尸蛊艳谭【增强版】 => 尸蛊艳谭.1993
+\[赤裸天使\].Angel.Hearts.1995 => 赤裸天使.1995
