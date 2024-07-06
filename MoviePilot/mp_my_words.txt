@@ -379,6 +379,15 @@ Cobweb.2023 => 蜘蛛网.2023
 最佳拍档之醉街拍档.97.Aces.Go.Places.1997 => 最佳拍档之醉街拍档.1997
 \[EggPain-Raws\&VCB-Studio\] School Days  => School Days.S01E
 MR.VampireII1986 => 僵尸家族.1986
+\[双世宠妃Ⅱ\].The.Eternal.Love.Ⅱ.2018 => 双世宠妃.2017.S02
+\[双世宠妃Ⅲ\].The.Eternal.Love.Ⅲ.2021 => 双世宠妃.2017.S03
+Into.the.Blue.2005 => 碧海追踪.2005
+\[天云山传奇\].Legend.of.Tianyun.Monutain.1981 => 天云山传奇.1980
+Hero.2007 => 律政英雄.2007 {[tmdbid=51550;type=movie]}
+Hero.2015 => 律政英雄 新电影版.2015 {[tmdbid=360635;type=movie]}
+Hotel.Transylvania.2015 => 精灵旅社2.2015
+Civil.War.2024 => 美国内战.2024
+Becky.2020 => 我不好惹.2020
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
 Crazy.Love.1993 => 蜜桃成熟时.1993
