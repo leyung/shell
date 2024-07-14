@@ -395,7 +395,6 @@ Becky.2020 => 我不好惹.2020
 Turbulence.1997 => 插翅难飞.1997
 The.Bodyguard.2016 => 我的特工爷爷.2016
 Follow.Me.2020 => 极限网红.2020
-\[海鸥乔纳森\].Jonathan.Livingston.Seagull.1973 => 海鸥乔纳森.1973
 La.Haine.1995 => 怒火青春.1995
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
