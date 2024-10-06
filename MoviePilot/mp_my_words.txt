@@ -407,6 +407,21 @@ Air.2023 => 气垫传奇.2023
 \[间谍过家家 代号：白\].Spy.x.Family.Movie.Code.White.2023 => 间谍过家家 代号：白.2023
 Ice.Age·The.Meltdown.2006 => 冰川时代2：融冰之灾.2006
 Ice.Age·Continental.Drift.2012 => 冰川时代4：大陆漂移.2012
+CCTV6HD.Long.Live.the.Wife.1947 => 太太万岁.1947
+Get.Hard.UNRATED.2015 => 狱前教育.2015
+Fox Spirit Matchmaker S12 => Fox Spirit Matchmaker S01
+狐妖小红娘.Fox.Spirit.Matchmaker.S12E <> 2024 >> EP+157
+狐妖小红娘.Fox.Spirit.Matchmaker => 狐妖小红娘{[tmdbid=75787;type=tv;s=01]}
+Hot.Shots!1991 => 反斗神鹰.1991
+\[Zankyou no Terror\] => 东京残响.2014
+ばらかもん => 元气囝仔
+You're.Next.2011 => 你是下一个.2011
+The.Romancing.Star.Ⅲ.1989 => 精装追女仔3：狼之一族.1989
+Friday.the.13th.2009 => 黑色星期五.2009
+YIp.Man.2.2010 => 叶问2：宗师传奇.2010
+ODDTAXI # => ODDTAXI S01E
+Legend.of.Tianyun.Monutain.1981 => 天云山传奇.1980
+12th.Fail.2023 => 12年级的失败.2023
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
 Crazy.Love.1993 => 蜜桃成熟时.1993
@@ -433,3 +448,6 @@ America.Pie.1999 => 美国派.1999
 赤裸狂花【增强版】 => 赤裸狂花.1994
 尸蛊艳谭【增强版】 => 尸蛊艳谭.1993
 \[赤裸天使\].Angel.Hearts.1995 => 赤裸天使.1995
+追女三十六房.36.Secrets.Of.Courtship.1982 => 追女三十六房.1982
+Laboratory.of.the.Devil.1992 => 黑太阳731续集之杀人工厂.1992
+\[血恋\].Trilogy.of.Lust.1995.A.I => 血恋.1995
