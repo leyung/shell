@@ -422,6 +422,32 @@ YIp.Man.2.2010 => 叶问2：宗师传奇.2010
 ODDTAXI # => ODDTAXI S01E
 Legend.of.Tianyun.Monutain.1981 => 天云山传奇.1980
 12th.Fail.2023 => 12年级的失败.2023
+Hand.2022 => 手.2022
+全职高手.The.Kings.Avatar => 全职高手 {[tmdbid=71194;type=tv]}
+Friday.the.13th.UNCUT.1980 => 十三号星期五.1980
+Friday.the.13th.Part.2.1981 => 十三号星期五2.1981
+Friday.the.13th.Part.3.1982 => 十三号星期五3.1982
+Burû.sâmaru.AKA.Blue.Thermal.2022 => Blue Thermal -青凪大学体育会航空部.2022
+12.12.The.Day.AKA.Seoul.Spring.2023 => 首尔之春.2023
+Kappa.No.Ku.To.Natsu.Yasum.AKA.Summer.Day.With.Coco.2007 => 河童之夏.2007
+\[bbs.hdcmct.com\]巾帼枭雄II => 巾帼枭雄之义海豪情
+Ghost.1990 => 人鬼情未了.1990
+The.Naughty.Victorians.1975 => 一个少女复仇的情色故事.1975 {[tmdbid=267488;type=movie]}
+Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03E => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01E && Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01E <> 2024 >> EP+50
+The.Call.2013 => 致命呼叫.2013
+Fong.Sai.Yuk.II.1993 => 方世玉续集.1993
+Qu'est-ce.qu'on.a.fait.au.Bon.Dieu.2014 => 岳父岳母真难当.2014
+Yu.zhou.tan.suo.bian.ji.bu.AKA.Journey.to.the.West.2021 => 宇宙探索编辑部.2021
+Speak.No.Evil.2024 => 非礼勿言.2024
+Smile.2022 => 危笑.2022
+ShangriLa.Frontier.S02(?=.*ADWeb) => ShangriLa.Frontier.S01 && S01 <> 2024 >> EP+25
+55.Steps.2017 => 55步.2018
+Elmer.Gantry.1960 => 孽海痴魂.1960
+Overhead.2009 => 窃听风云.2009
+一人之下.The.Outcast.S00E01 => 一人之下.The.Outcast.S02E25
+Yi.Ren.Zhi.Xia.Xiu.Tie.Chong.Xian.2024 => 一人之下.2016.S00E01
+Ao.no.Exorcist.Yuki.no.Hate.hen.2024.S04 => 青之驱魔师.2011.S04
+Flow.2024 => 猫猫的奇幻漂流.2024
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
 Crazy.Love.1993 => 蜜桃成熟时.1993
@@ -451,3 +477,10 @@ America.Pie.1999 => 美国派.1999
 追女三十六房.36.Secrets.Of.Courtship.1982 => 追女三十六房.1982
 Laboratory.of.the.Devil.1992 => 黑太阳731续集之杀人工厂.1992
 \[血恋\].Trilogy.of.Lust.1995.A.I => 血恋.1995
+Combien.Tu.M'Aimes.2005 => 爱我多深.2005
+Getting.Personal.1985 => 私人计划.1985 {[tmdbid=735342;type=movie]}
+Taxi.Girls.1979 => 的士女郎.1979
+Heavenly.Desire.1979 => 天堂的欲望.1979 {[tmdbid=337723;type=movie]}
+Terrifying.Girls'High.School.Animal.Classmates.1973 => 恐怖女子高中 禽兽同学.1973
+\[嫩草的香味\].Flossie.1974 => 嫩草的香味.1974 {[tmdbid=96157;type=movie]}
+Palandaemun.1998 => 雏妓.1998
