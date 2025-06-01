@@ -448,6 +448,29 @@ Overhead.2009 => 窃听风云.2009
 Yi.Ren.Zhi.Xia.Xiu.Tie.Chong.Xian.2024 => 一人之下.2016.S00E01
 Ao.no.Exorcist.Yuki.no.Hate.hen.2024.S04 => 青之驱魔师.2011.S04
 Flow.2024 => 猫猫的奇幻漂流.2024
+Where.Is.the.Friend's.Home.1987 => 何处是我朋友的家.1987
+500.Days.of.Summer.2009 => 和莎莫的500天.2009
+Thieff.1981 => 大盗独行.1981
+Is.It.Wrong.to.Try.to.Pick.Up.Girls.in.a.Dungeon.S01OVA => 在地下城寻求邂逅是否搞错了什么.S00E01
+Is.It.Wrong.to.Try.to.Pick.Up.Girls.in.a.Dungeon.S02OVA => 在地下城寻求邂逅是否搞错了什么.S00E03
+Is.It.Wrong.to.Try.to.Pick.Up.Girls.in.a.Dungeon.S03OVA => 在地下城寻求邂逅是否搞错了什么.S00E04
+Is.It.Wrong.to.Try.to.Pick.Up.Girls.in.a.Dungeon => 在地下城寻求邂逅是否搞错了什么
+Attack.on.Titan.S04E29-31 => 进击的巨人.S00E36
+Attack.on.Titan.S04E32-35 => 进击的巨人.S00E37
+Climax.2018 => 高潮.2018
+Poison.Ivy.1992 => 欲海潮.1992
+Skin.Flicks.1978 => 情色片商.1978 {[tmdbid=594808;type=movie]}
+Barbara.Broadcast.1977 => 饮食男女欲存焉.1977 {[tmdbid=29553;type=movie]}
+Female.Perversions.1996 => 黑色芳心.1996
+Sutekina.Dynamite.Scandal.2018 => 美好的危险丑闻.2018
+Entrails.of.a.Beautiful.Woman.1987 => 拷问贵妇人.1987
+The.Image.1975 => 映像.1975 {[tmdbid=67018;type=movie]}
+血洛大陆.Swallowed.Star.Movie.Xueluo.Continent.2024 => 吞噬星空剧场版：血洛大陆.2024
+Her.Story.2024 => 好东西.2024 {[tmdbid=1260951;type=movie]}
+Be.for.Busy.2021 => 爱情神话.2021 {[tmdbid=902478;type=movie]}
+\[粉红豹1\].The.Pink.Panther.I.2006 => 粉红豹.2006
+\[粉红豹2\].The.Pink.Panther.II.2009 => 粉红豹2.2009
+新龍門客棧 第(?=[0-5][0-9]) => 新龙门客栈.1996.S01E && S01E <> 集 >> EP+0
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
 Crazy.Love.1993 => 蜜桃成熟时.1993
