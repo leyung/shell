@@ -471,6 +471,39 @@ Be.for.Busy.2021 => 爱情神话.2021 {[tmdbid=902478;type=movie]}
 \[粉红豹1\].The.Pink.Panther.I.2006 => 粉红豹.2006
 \[粉红豹2\].The.Pink.Panther.II.2009 => 粉红豹2.2009
 新龍門客棧 第(?=[0-5][0-9]) => 新龙门客栈.1996.S01E && S01E <> 集 >> EP+0
+Shall.We.Dance.1996 => 谈谈情跳跳舞.1996
+(?:诛仙\.)?Jade.Dynasty.S01E(2[7-9]|[3-9][0-9]).2024.*ADWeb => 诛仙.S02E\1.2022 && S02 <> 2022 >> EP-26
+Reply.1988.SP.2015 => 请回答1988.S00E02
+Reply.1988.2015 => 请回答1988.S01
+Hakozume.SP => Hakozume.S00E
+\[我的唐朝兄弟\].The.Robbers.2009 => 我的唐朝兄弟.2009
+九五至尊EP => 九五至尊.2003.S01E
+Yes,Minister.S03E08.1984.Party.Games => 是，大臣.S00E02.1980
+The.Merchant.of.Four.Seasons.1971 => 四季商人.1972 {[tmdbid=10309;type=movie]}
+Through.the.Looking.Glass.1976 => 魔镜之旅.1976 {[doubanid=2278925;type=movie]}
+Soul.2020 => 心灵奇旅.2020
+Girl‘s.Blood.2014 => 红·粉.2014
+Up.1983 => 雄起.1983
+\[梅格雷的陷阱\].Maigret.Sets.A.Trap.2016 => 梅格雷.2016.S01E01
+\[梅格雷的亡者\].Maigret's.Dead.Man.2016 => 梅格雷.2016.S01E02
+Maigret：Night.at.the.Crossroads.2017 => 梅格雷.2016.S02E01
+Maigret.in.Montmartre.2017 => 梅格雷.2016.S02E02
+Knock.Knock.2015 => 敲敲门.2015
+Ballerina.2025 => 疾速追杀：芭蕾杀姬.2025
+Lilo.&.Stitch.The.Series => 星际宝贝
+Kizumonogatari.Part.1.Tekketsu.S01E01.2016 => 伤物语1：铁血篇.2016
+Kizumonogatari.Part.2.Nekketsu-hen.S01E01.2016 => 伤物语2：热血篇.2016
+Kizumonogatari.Part.3.Reiketsu-hen.S01E01.2017 => 伤物语3：冷血篇.2017
+龙游天下1.Long.You.Tian.Xia => 龙游天下
+龙游天下2.Long.You.Tian.Xia => 龙游天下
+龙游天下3.Long.You.Tian.Xia => 龙游天下
+100.Yens.Love.2014 => 百元之恋.2014
+左伟和杜叶的婚姻生活.2007.E => 左伟和杜叶的婚姻生活.2007.S01E {[tmdbid=195605;type=tv]}
+Steins;Gate.0.S01 => 命运石之门 0.S01 {[tmdbid=78102;type=tv]}
+Our.Summer.in.Provence.2014 => 普罗旺斯的夏天.2014
+Waiting.for.Forever2010 => 等到永远.2010
+The.World.Between.Us.SP.2019 => The.World.Between.Us.S00E01.2019
+The.Battle.of.Life.and.Death.2024 => 志愿军：存亡之战.2024
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
 Crazy.Love.1993 => 蜜桃成熟时.1993
