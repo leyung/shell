@@ -358,8 +358,6 @@ Cells.at.Work.S01E14.Special => Cells.at.Work.S00E01
 One.Piece.3D.Mugiwara.cheisu.2011 => 海贼王：追寻草帽.2011
 \[前目的地\].Predestination.2014 => 前目的地.2014
 狗狗与我的十个约定.10.Promises.to.My.Dog.2008 => 狗狗与我的十个约定.2008
-Demon.Slayer.S03(?=.*WiKi) => Demon.Slayer.S04
-Demon.Slayer.S02(?=.*WiKi) => Demon.Slayer.S03
 Crimson.Peak.2015 => 猩红山峰.2015
 Mad.Max.1.1979 => 疯狂的麦克斯.1979
 Rango.2011 => 兰戈.2011
@@ -504,6 +502,13 @@ Our.Summer.in.Provence.2014 => 普罗旺斯的夏天.2014
 Waiting.for.Forever2010 => 等到永远.2010
 The.World.Between.Us.SP.2019 => The.World.Between.Us.S00E01.2019
 The.Battle.of.Life.and.Death.2024 => 志愿军：存亡之战.2024
+十八岁太奶奶驾到，重整家族荣耀第二部.Shi.Ba.Sui.Tai.Nai.Nai.Jia.Dao.,.Zhong.Zheng.Jia.Zu.Rong.Yao.Di.Er.Bu.2025.S01 => 十八岁太奶奶驾到，重整家族荣耀.S02
+十八岁太奶奶驾到，重整家族荣耀3.Shi.Ba.Sui.Tai.Nai.Nai.Jia.Dao.,.Zhong.Zheng.Jia.Zu.Rong.Yao.3.2025.S03 => 十八岁太奶奶驾到，重整家族荣耀.S03
+Farewell.Scarlet.1975 => 告别斯嘉丽.1975
+Scum's.Wish.S01 => 人渣的本愿.S01 {[tmdbid=69292;type=tv]}
+16.Blocks.2006 => 勇闯16街区.2006
+The.Jungle.Book.2003 => 森林王子2.2003
+The.Little.Mermaid.3.2008 => 小美人鱼3：爱丽儿的起源.2008
 
 满清十大酷刑.Chinese.Torture.Chamber.Story.1994 => 满清十大酷刑之杨乃武与小白菜.1994
 Crazy.Love.1993 => 蜜桃成熟时.1993
