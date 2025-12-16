@@ -9,28 +9,27 @@ Ma10p_1080p => 1080p x265
 HEVC Main10P => x265
 
 Jujutsu.Kaisen.S02E => Jujutsu.Kaisen.S01E && Jujutsu.Kaisen.S01E <> 2023 >> EP+24
-One.Piece.S01(?=.*ADWeb) => One Piece S22
-One.?Piece.?S01E(?=006[2-9]|007[0-7]) => One Piece S02E
-One.?Piece.?S01E(?=007[8-9]|008[0-9]|009[0-1]) => One Piece S03E
-One.?Piece.?S01E(?=009[2-9]|01[0-2][0-9]|0130) => One Piece S04E
-One.?Piece.?S01E(?=013[1-9]|014[0-3]) => One Piece S05E
-One.?Piece.?S01E(?=014[4-9]|01[5-8][0-9]|019[0-5]) => One Piece S06E
-One.?Piece.?S01E(?=019[6-9]|02[0-1][0-9]|022[0-8]) => One Piece S07E
-One.?Piece.?S01E(?=0229|02[3-5][0-9]|026[0-3]) => One Piece S08E
-One.?Piece.?S01E(?=026[4-9]|02[7-9][0-9]|03[0-2][0-9]|033[0-6]) => One Piece S09E
-One.?Piece.?S01E(?=033[7-9]|03[4-7][0-9]|038[0-1]) => One Piece S10E
-One.?Piece.?S01E(?=038[2-9]|039[0-9]|040[0-7]) => One Piece S11E
-One.?Piece.?S01E(?=040[8-9]|041[0-9]|042[0-1]) => One Piece S12E
-One.?Piece.?S01E(?=042[2-9]|04[3-9][0-9]|05[0-1][0-9]|052[0-2]) => One Piece S13E
-One.?Piece.?S01E(?=052[3-9]|05[3-7][0-9]|0580) => One Piece S14E
-One.?Piece.?S01E(?=058[1-9]|059[0-9]|06[0-3][0-9]|064[0-2]) => One Piece S15E
-One.?Piece.?S01E(?=064[3-9]|06[5-8][0-9]|069[0-2]) => One Piece S16E
-One.?Piece.?S01E(?=069[3-9]|07[0-3][0-9]|074[0-8]) => One Piece S17E
-One.?Piece.?S01E(?=0749|07[5-9][0-9]|080[0-3]) => One Piece S18E
-One.?Piece.?S01E(?=080[4-9]|08[1-6][0-9]|087[0-7]) => One Piece S19E
-One.?Piece.?S01E(?=087[8-9]|088[0-9]|089[0-1]) => One Piece S20E
-One.?Piece.?S01E(?=089[2-9]|09[0-9][0-9]|10[0-7][0-9]|108[0-8]) => One Piece S21E
-One.?Piece.?S01E(?=1089|109[0-9]|1[1-9][0-9][0-9]) => One Piece S22E
+One.?Piece.?S01E(?=1089|109[0-9]|1[1-9][0-9][0-9]) => One.Piece.1999.S22E
+One.?Piece.?S01E(?=89[2-9]|9[0-9][0-9]|10[0-7][0-9]|108[0-8]) => One.Piece.1999.S21E
+One.?Piece.?S01E(?=87[8-9]|88[0-9]|89[0-1]) => One.Piece.1999.S20E
+One.?Piece.?S01E(?=80[4-9]|8[1-6][0-9]|87[0-7]) => One.Piece.1999.S19E
+One.?Piece.?S01E(?=749|7[5-9][0-9]|80[0-3]) => One.Piece.1999.S18E
+One.?Piece.?S01E(?=69[3-9]|7[0-3][0-9]|74[0-8]) => One.Piece.1999.S17E
+One.?Piece.?S01E(?=64[3-9]|6[5-8][0-9]|69[0-2]) => One.Piece.1999.S16E
+One.?Piece.?S01E(?=58[1-9]|59[0-9]|6[0-3][0-9]|64[0-2]) => One.Piece.1999.S15E
+One.?Piece.?S01E(?=52[3-9]|5[3-7][0-9]|580) => One.Piece.1999.S14E
+One.?Piece.?S01E(?=42[2-9]|4[3-9][0-9]|5[0-1][0-9]|52[0-2]) => One.Piece.1999.S13E
+One.?Piece.?S01E(?=40[8-9]|41[0-9]|42[0-1]) => One.Piece.1999.S12E
+One.?Piece.?S01E(?=38[2-9]|39[0-9]|40[0-7]) => One.Piece.1999.S11E
+One.?Piece.?S01E(?=33[7-9]|3[4-7][0-9]|38[0-1]) => One.Piece.1999.S10E
+One.?Piece.?S01E(?=26[4-9]|2[7-9][0-9]|3[0-2][0-9]|33[0-6]) => One.Piece.1999.S09E
+One.?Piece.?S01E(?=229|2[3-5][0-9]|26[0-3]) => One.Piece.1999.S08E
+One.?Piece.?S01E(?=19[6-9]|2[0-1][0-9]|22[0-8]) => One.Piece.1999.S07E
+One.?Piece.?S01E(?=14[4-9]|1[5-8][0-9]|19[0-5]) => One.Piece.1999.S06E
+One.?Piece.?S01E(?=13[1-9]|014[0-3]) => One.Piece.1999.S05E
+One.?Piece.?S01E(?=9[2-9]|1[0-2][0-9]|130) => One.Piece.1999.S04E
+One.?Piece.?S01E(?=7[8-9]|8[0-9]|9[0-1]) => One.Piece.1999.S03E
+One.?Piece.?S01E(?=6[2-9]|7[0-7]) => One.Piece.1999.S02E
 Naruto.E(?=0[0-4][0-9]|05[0-2]) => Naruto.S01E
 Naruto.E(?=05[3-9]|0[6-9][0-9]|10[0-4]) => Naruto.S02E
 Naruto.E(?=10[5-9]|1[1-4][0-9]|15[0-8]) => Naruto.S03E
